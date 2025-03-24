@@ -1,5 +1,5 @@
-# JeooparPy!
-A project based in Python based on the game show Jeopardy!
+# Three Roads!
+A Python-based trivia project.
 
 # Datasets
 For legal reasons, I won't include a dataset in this project, but many can be found. 
